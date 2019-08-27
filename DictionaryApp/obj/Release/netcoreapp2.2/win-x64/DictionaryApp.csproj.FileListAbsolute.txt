@@ -1,0 +1,16 @@
+C:\Users\iremy\source\repos\DictionaryApp\DictionaryApp\bin\Release\netcoreapp2.2\win-x64\hostpolicy.dll
+C:\Users\iremy\source\repos\DictionaryApp\DictionaryApp\bin\Release\netcoreapp2.2\win-x64\hostfxr.dll
+C:\Users\iremy\source\repos\DictionaryApp\DictionaryApp\bin\Release\netcoreapp2.2\win-x64\DictionaryApp.exe
+C:\Users\iremy\source\repos\DictionaryApp\DictionaryApp\bin\Release\netcoreapp2.2\win-x64\DictionaryApp.deps.json
+C:\Users\iremy\source\repos\DictionaryApp\DictionaryApp\bin\Release\netcoreapp2.2\win-x64\DictionaryApp.runtimeconfig.json
+C:\Users\iremy\source\repos\DictionaryApp\DictionaryApp\bin\Release\netcoreapp2.2\win-x64\DictionaryApp.runtimeconfig.dev.json
+C:\Users\iremy\source\repos\DictionaryApp\DictionaryApp\bin\Release\netcoreapp2.2\win-x64\DictionaryApp.dll
+C:\Users\iremy\source\repos\DictionaryApp\DictionaryApp\bin\Release\netcoreapp2.2\win-x64\DictionaryApp.pdb
+C:\Users\iremy\source\repos\DictionaryApp\DictionaryApp\obj\Release\netcoreapp2.2\win-x64\DictionaryApp.csproj.CoreCompileInputs.cache
+C:\Users\iremy\source\repos\DictionaryApp\DictionaryApp\obj\Release\netcoreapp2.2\win-x64\DictionaryApp.RazorAssemblyInfo.cache
+C:\Users\iremy\source\repos\DictionaryApp\DictionaryApp\obj\Release\netcoreapp2.2\win-x64\DictionaryApp.RazorAssemblyInfo.cs
+C:\Users\iremy\source\repos\DictionaryApp\DictionaryApp\obj\Release\netcoreapp2.2\win-x64\DictionaryApp.AssemblyInfoInputs.cache
+C:\Users\iremy\source\repos\DictionaryApp\DictionaryApp\obj\Release\netcoreapp2.2\win-x64\DictionaryApp.AssemblyInfo.cs
+C:\Users\iremy\source\repos\DictionaryApp\DictionaryApp\obj\Release\netcoreapp2.2\win-x64\DictionaryApp.RazorTargetAssemblyInfo.cache
+C:\Users\iremy\source\repos\DictionaryApp\DictionaryApp\obj\Release\netcoreapp2.2\win-x64\DictionaryApp.dll
+C:\Users\iremy\source\repos\DictionaryApp\DictionaryApp\obj\Release\netcoreapp2.2\win-x64\DictionaryApp.pdb
