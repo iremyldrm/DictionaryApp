@@ -37,12 +37,7 @@ namespace DictionaryApp.Controllers
         public  List<Keywords> GetKeywords(string id)
         {
             List<Keywords> keywords = new List<Keywords>();
-              Keywords word =   _context.Keywords.FirstOrDefault(cus=> cus.WordTr == id || cus.WordEn == id );
-
-            if (word != null)
-            {
-                keywords.Add(word);
-            }
+            keywords = _context.Keywords.Where(cus => cus.WordTr == id || cus.WordEn == id).ToList();
 
             return keywords;
         }
